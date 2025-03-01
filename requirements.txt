@@ -1,0 +1,9 @@
+Flask
+pymongo
+requests
+beautifulsoup4
+stem
+transformers
+torch
+networkx
+matplotlib
