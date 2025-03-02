@@ -1,4 +1,6 @@
-# Dark Web Intelligence
+
+#Project Name: OSINT-BASED DARK WEB THREAT INTELLIGENCE PLATFORM
+#problem statement ID: PS6
 
 ## 📌 Overview
 Dark Web Intelligence is a system that crawls the dark web, applies NLP-based threat analysis, and visualizes hacker networks using graph analysis. The project includes a backend API and a frontend interface.
