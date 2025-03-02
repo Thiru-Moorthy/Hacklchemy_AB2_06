@@ -98,5 +98,8 @@ If it’s not recognized, navigate to `C:\Tor` and run `tor.exe`.
 
 ## 👨‍💻 Contributors
 - Thirumoorthy R(Project Lead)
+- Rithik Roshan M
+- Sujith B
+- Kirthik Reshan S
 
 
